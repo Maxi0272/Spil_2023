@@ -1,2 +1,18 @@
 # Spil_2023
-# dooodoo
+
+## In progress
+
+#### Playable area with walls so moose dont escape
+
+## ToDo
+#### Enemies der skyder efter spiller
+
+## IceBox
+#### Enemy spawn locations
+#### Health bar and healing
+#### wave/progression
+#### Animations (running and shii)
+
+## Complete
+#### Make DAMOOSE playable
+#### Make him moove and shii
