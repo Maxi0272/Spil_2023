@@ -4,7 +4,7 @@ var velocity = Vector2.ZERO
 
 const MaxSpeed = 200
 const accel = 7000
-const friction = 7000
+const friction = 100
 
 func _physics_process(delta):
 	var input_vector = Vector2.ZERO
@@ -17,5 +17,5 @@ func _physics_process(delta):
 		
 		
 	else:
-		velocity = velocity.move_toward(Vector2.ZERO, friction * delta)
+		velocity = Vector2.ZERO
 	velocity= move_and_slide(velocity)
