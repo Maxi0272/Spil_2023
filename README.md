@@ -12,6 +12,9 @@
 #### Health bar and healing
 #### wave/progression
 #### Animations (running and shii)
+#### Make items to pickup
+##### powerups
+##### guns
 
 ## Complete
 #### Make DAMOOSE playable
