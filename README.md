@@ -3,9 +3,10 @@
 ## In progress
 
 #### Playable area with walls so moose dont escape
+#### Enemies der skyder efter spiller
 
 ## ToDo
-#### Enemies der skyder efter spiller
+
 
 ## IceBox
 #### Enemy spawn locations
