@@ -6,6 +6,7 @@ const MaxSpeed = 200
 const accel = 7000
 const friction = 100
 
+
 func _physics_process(delta):
 	var input_vector = Vector2.ZERO
 	input_vector.x = Input.get_action_strength("right")- Input.get_action_strength("left")
