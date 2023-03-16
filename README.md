@@ -14,8 +14,9 @@
 #### wave/progression
 #### Animations (running and shii)
 #### Make items to pickup
-##### powerups
-##### guns
+#### powerups
+#### guns
+#### Camera follow player
 
 ## Complete
 #### Make DAMOOSE playable
