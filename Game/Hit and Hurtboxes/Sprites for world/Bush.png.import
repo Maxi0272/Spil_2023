@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GB-LandTileset.png-1d662eca7895fdcbd1d843049a5d451c.stex"
+path="res://.import/Bush.png-18a63030bbe6ee6cc4508e08fe1338b2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HAS Overworld 2.1/GrassBiome/GB-LandTileset.png"
-dest_files=[ "res://.import/GB-LandTileset.png-1d662eca7895fdcbd1d843049a5d451c.stex" ]
+source_file="res://Hit and Hurtboxes/Sprites for world/Bush.png"
+dest_files=[ "res://.import/Bush.png-18a63030bbe6ee6cc4508e08fe1338b2.stex" ]
 
 [params]
 
@@ -19,7 +19,7 @@ compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
-flags/repeat=1
+flags/repeat=0
 flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
