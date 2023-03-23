@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GB-LandTileset.png-1d662eca7895fdcbd1d843049a5d451c.stex"
+path="res://.import/GrassBackground.png-dca8f634255dc239cdecd2a4e2947090.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HAS Overworld 2.1/GrassBiome/GB-LandTileset.png"
-dest_files=[ "res://.import/GB-LandTileset.png-1d662eca7895fdcbd1d843049a5d451c.stex" ]
+source_file="res://HAS Overworld 2.1/GrassBackground.png"
+dest_files=[ "res://.import/GrassBackground.png-dca8f634255dc239cdecd2a4e2947090.stex" ]
 
 [params]
 
