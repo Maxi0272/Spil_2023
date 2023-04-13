@@ -3,18 +3,17 @@
 ## In progress
 
 #### Playable area with walls so moose dont escape
+#### guns
 
 ## ToDo
-
+#### Health bar
 
 ## IceBox
 #### Enemy spawn locations
-#### Health bar and healing
 #### wave/progression
 #### Animations (running and shii)
 #### Make items to pickup
 #### powerups
-#### guns
 
 ## Complete
 #### Make DAMOOSE playable
