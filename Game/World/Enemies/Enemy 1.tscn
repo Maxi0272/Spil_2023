@@ -9,7 +9,7 @@
 [sub_resource type="CapsuleShape2D" id=2]
 
 [node name="Enemy_1" type="KinematicBody2D"]
-collision_layer = 16
+collision_layer = 17
 script = ExtResource( 3 )
 
 [node name="Sprite" type="Sprite" parent="."]
