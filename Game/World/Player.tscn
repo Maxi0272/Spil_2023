@@ -58,8 +58,8 @@ tracks/0/keys = {
 }
 
 [sub_resource type="CapsuleShape2D" id=5]
-radius = 14.0
-height = 12.0
+radius = 12.0
+height = 4.0
 
 [node name="Player" type="KinematicBody2D" groups=["Player"]]
 collision_layer = 6
