@@ -3,7 +3,6 @@
 ## In progress
 
 #### Playable area with walls so moose dont escape
-#### Enemies der skyder efter spiller
 
 ## ToDo
 
@@ -16,8 +15,9 @@
 #### Make items to pickup
 #### powerups
 #### guns
-#### Camera follow player
 
 ## Complete
 #### Make DAMOOSE playable
 #### Make him moove and shii
+#### Camera follow player
+#### Enemies der skyder efter spiller
