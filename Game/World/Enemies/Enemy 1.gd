@@ -20,6 +20,10 @@ func _physics_process(delta):
 	pos = pos * delta * speed
 	position += pos
 
+		
+	
+	
+
 	
 
 
