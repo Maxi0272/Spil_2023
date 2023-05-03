@@ -6,7 +6,6 @@ var move = Vector2.ZERO
 var animation = Sprite
 var speed = 100
 var pos = Vector2.ZERO
-var i = 10
 
 export var bullet_scene = preload("res://World/Enemies/Bullet_enemy.tscn")
 
@@ -19,7 +18,6 @@ export var bullet_scene = preload("res://World/Enemies/Bullet_enemy.tscn")
 #	position += pos
 
 func _on_Hurtbox_area_entered(_area):
-	i=0
 	queue_free()
 	#insert dying animation 
 	#insert queue_free upon animation finish via signals

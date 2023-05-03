@@ -4,7 +4,7 @@ var distoplay
 
 var move = Vector2.ZERO
 var animation = Sprite
-var speed = 100
+var speed = 70
 var pos = Vector2.ZERO
 
 #func _ready():
